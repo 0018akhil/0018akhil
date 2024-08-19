@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Akhil Achary and I'm a full stack developer, from Hyderabad, India.</p>
+<p align="left">My name is Akhil Achary and I'm a full-stack developer, from Hyderabad, India.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently Django and Angular❤️<br>🎯 Goals: I will become the hokage some day.<br>🎲 Fun fact: Code is easy!</p>
+<p align="left">✨ Creating bugs since 2016<br>🎯 Goals: I will become the hokage some day.<br>🎲 Fun fact: Code is easy!</p>
 
 ###
 
